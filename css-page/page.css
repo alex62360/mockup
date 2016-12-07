@@ -1,0 +1,33 @@
+#navbar{
+  background-color:#3B5998;
+  color: #FFF;
+}
+#container{
+  background-color: #DBE5E6;
+}
+#container2{
+  background-color: white;
+}
+#comment{
+  padding-left: 30px;
+  padding-top: 30px;
+}
+#truc{
+  padding-left: 40px;
+}
+#couleur{
+  background-color: rgb(67, 117, 111);
+  margin-left: 30px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+footer{
+height: 50px;
+margin-top: 15px;
+}
+ul{
+  list-style-type: square;
+}
+p{
+  font-size: 2em
+}
